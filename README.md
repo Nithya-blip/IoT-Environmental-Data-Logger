@@ -28,7 +28,7 @@ This project is an ESP32-based IoT system that collects environmental data such 
 
 
 ### Circuit
-![Circuit](docs/images/circuit_diagram.png)
+![Circuit](docs/images/circuit_duagram.png)
 
 ### Output
 ![Output](docs/images/Dashboard.png)
