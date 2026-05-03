@@ -12,7 +12,7 @@ This video demonstrates the working of the **IoT-Based Environmental Data Logger
 
 ## ▶️ Watch the Demo
 
-👉 [Click here to view the demo video]([https://drive.google.com/file/d/11e9M4Rbu5RIwaqNvs1Y4D-59M5m5Ul8O/view?usp=sharing])
+👉 [Click here to view the demo video](https://drive.google.com/file/d/11e9M4Rbu5RIwaqNvs1Y4D-59M5m5Ul8O/view?usp=sharing)
 
 ---
 
